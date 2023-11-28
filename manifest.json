@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "SCOMBZ-ext",
+  "name": "ScombZ-TaskListExtender",
   "version": "1.0",
-  "description": "ScombZの課題一覧に科目トップページへのリンク追加",
+  "description": "ScombZの課題一覧に科目トップページへのリンク追加します．",
   "content_scripts": [
     {
       "js": ["scripts/content.js"],
