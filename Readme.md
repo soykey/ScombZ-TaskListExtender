@@ -5,5 +5,5 @@
 ## 追加方法(Google Chrome)
 1. 緑色の`Code`ボタンをクリックし`Download ZIP`からzip形式でダウンロード
 2. `chrome://extensions/`へアクセス
-3. 右上の`デベロッパーモード`をオン`<center><img src="image\TurnOnDevMode.png" width=500 /><center/>
-4. 左上の `パッケージ化されてない拡張機能を読み込む` からダウンロードしたzipファイルを選択<center><img src="image\importZIP.png" width=500 /><center/>
+3. 右上の`デベロッパーモード`をオン<br><center><img src="image\TurnOnDevMode.png" width=500 /><center/>
+4. 左上の `パッケージ化されてない拡張機能を読み込む` からダウンロードしたzipファイルを選択<br><center><img src="image\importZIP.png" width=500 /><center/>
