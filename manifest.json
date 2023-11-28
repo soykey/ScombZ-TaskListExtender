@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "SCOMBZ-ext",
+  "version": "1.0",
+  "description": "ScombZの課題一覧に科目トップページへのリンク追加",
+  "content_scripts": [
+    {
+      "js": ["scripts/content.js"],
+      "matches": [
+        "https://scombz.shibaura-it.ac.jp/lms/task"
+      ]
+    }
+  ]
+}
